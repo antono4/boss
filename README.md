@@ -1,2 +1,26 @@
-Last updated: 2026-09-03 12:04:11 WIB
-Last updated: 2026-09-03 12:49:57 WIB
+# boss
+
+
+
+## 📋 Overview
+
+This repository contains **70 files** and is built with the following technologies:
+
+Go
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Go
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-03 14:14:44 WIB*
